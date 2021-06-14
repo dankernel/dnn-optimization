@@ -7,4 +7,4 @@ Title | Year | Type | Tag | Blog
 [8-bit Inference with TensorRT](https://on-demand.gputechconf.com/gtc/2017/presentation/s7310-8-bit-inference-with-tensorrt.pdf) | 2017 | GTC | `quantization` | [Blog]()
 [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/pdf/1602.07360.pdf) | 2016 | - | `Networks` | [blog](https://blog.worklover.com/2021/06/08/squeezenet-alexnet-level-accuracy-with-50x-fewer-parameters-and-0-5mb-model-size/)
 [Sum-Product Networks: A New Deep Architecture](http://spn.cs.washington.edu/papers/spn.pdf) | 2011 | UAI | `SPN` | -
-[Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf) | 2016 | - | `BNN` | -
+[Binarized Neural Networks: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](https://arxiv.org/pdf/1602.02830.pdf) | 2016 | - | `BNN` | [blog](https://blog.worklover.com/2021/06/14/binarized-neural-networks-training-deep-neural-networks-with-weights-and-activations-constrained-to-1-or-1/)
