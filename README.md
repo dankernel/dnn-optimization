@@ -15,3 +15,4 @@ SENet   | 2017 | | | |
 SKNet   | 2019 | | | |
 FReLU   | 2017 | | | | 
 RepVGG  | 2021 | | | | 
+ShuffleNet | | | | 
