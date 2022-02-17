@@ -16,3 +16,4 @@ SKNet   | 2019 | | | |
 FReLU   | 2017 | | | | 
 RepVGG  | 2021 | | | | 
 ShuffleNet | | | | 
+An Ultra Lightweight CNN for Low Resource Circuit Component Recognition | | | |
